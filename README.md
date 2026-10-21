@@ -5,7 +5,7 @@ You can convert 3.3V logic to a gate drive signal of 12V/200mA up to 500kHz, in 
 
 # Check out the video:
 
-[![Watch the video](https://img.youtube.com/vi/fAoAL9PbcAg/maxresdefault.jpg)](https://youtu.be/fAoAL9PbcAg)
+[![Watch the video](https://img.youtube.com/vi/uTXf1yA6ev4/maxresdefault.jpg)](https://youtu.be/uTXf1yA6ev4)
 
 # Schematic of the NE555 as a MOSFET Gate Driver:  
 Except for a Gate resistor, no additonal parts are needed.
