@@ -1,7 +1,7 @@
 # Description
 
-The NE555 makes a pretty decent gate driver.
-You can convert 3.3V logic to a gate drive signal of 12V/200mA up to 500kHz, in the YouTube video I explain and demonstrate the circuit
+The NE555 makes a pretty decent MOSFET gate driver.
+Wint only one NE555, you can convert 3.3V logic to a gate drive signal of 12V/200mA up to 500kHz, in the YouTube video I explain and demonstrate the circuit
 
 # Check out the video:
 
